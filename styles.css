@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Secular+One:wght@400&display=swap');
 
 /* Self-hosted fonts (Inter + Rubik for multi-language support) */
 
@@ -184,7 +184,9 @@
   --surface-color: #000000;
   --text-color: #7d7d7d;
   --text-secondary-color: #8a8a8a;
-}
+
+  --heading-font: 'Secular One', sans-serif;
+  --font-heading: 'Secular One', sans-serif;}
 
 *,
 *::before,
@@ -246,8 +248,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Rubik', sans-serif;
-  color: var(--text-dark);
+  font-family: 'Secular One', sans-serif;
+  color: #000000;
   word-spacing: -0.02em;
   font-variant-ligatures: common-ligatures;
 }
@@ -2648,7 +2650,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* ── H1 ── */
 .index-hero-section .index-hero-h1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Secular One', sans-serif;
   font-size: 3rem;
   font-weight: 700;
   line-height: 1.18;
@@ -2661,7 +2663,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* ── Subtitle (H3) ── */
 .index-hero-section .index-hero-subtitle {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Secular One', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.7;
@@ -4118,7 +4120,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 .process-process-steps-section .process-step-content h3 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Secular One', sans-serif;
   font-size: 1.375rem;
   font-weight: 600;
   line-height: 1.4;
@@ -5861,7 +5863,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* H1 */
 .contact-contact-intro-section .contact-intro-title {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Secular One', sans-serif;
   font-size: 3rem;
   font-weight: 600;
   line-height: 1.2;
@@ -12133,7 +12135,6 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .navbar .nav-cta-btn,
 .nav-cta-btn { color: #333333 !important; }
 /* === BUTTON TEXT OVERRIDES END === */
-
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
