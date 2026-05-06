@@ -7,65 +7,65 @@
 ## Pages
 
 ### בית
-https://printoptech-78b4239c.zappy5.app
+https://example.com
 חנות אינטרנטית מובילה להדפסה מותאמת אישית לעסקים. מתנות ממותגות, הדפסה על מוצרים ואיכות שלא מתפשרת — הכל במקום אחד. גלו עכשיו!
 
 ### תהליך ההתאמה
-https://printoptech-78b4239c.zappy5.app/process
+https://example.com/process
 תהליך ההתאמה שלנו פשוט, מהיר ומדויק. בחרו מוצר, העלו עיצוב וקבלו הדפסה מותאמת אישית לעסקים עד הבית. התחילו את התהליך היום!
 
 ### אודות
-https://printoptech-78b4239c.zappy5.app/about
+https://example.com/about
 PRINTOPTECH היא חנות אינטרנטית עם תשוקה אמיתית להדפסה מותאמת אישית לעסקים. למדו על הערכים, הניסיון והמחויבות שלנו לאיכות בלתי מתפשרת.
 
 ### צור קשר
-https://printoptech-78b4239c.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על הדפסה מותאמת אישית לעסקים או רוצים להזמין מתנות ממותגות? צוות PRINTOPTECH כאן בשבילכם — צרו קשר עכשיו וקבלו מענה מהיר!
 
 ### Products
-https://printoptech-78b4239c.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - PRINTOPTECH
 
 ### Cart
-https://printoptech-78b4239c.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://printoptech-78b4239c.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://printoptech-78b4239c.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://printoptech-78b4239c.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://printoptech-78b4239c.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://printoptech-78b4239c.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - PRINTOPTECH
 
 ### Category
-https://printoptech-78b4239c.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - PRINTOPTECH
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://printoptech-78b4239c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://printoptech-78b4239c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://printoptech-78b4239c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -93,8 +93,8 @@ General
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://printoptech-78b4239c.zappy5.app/sitemap.xml
-- Robots: https://printoptech-78b4239c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://printoptech-78b4239c.zappy5.app/llms-full.txt
-- Products (JSON): https://printoptech-78b4239c.zappy5.app/products.json
-- Products (Google Merchant RSS): https://printoptech-78b4239c.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
