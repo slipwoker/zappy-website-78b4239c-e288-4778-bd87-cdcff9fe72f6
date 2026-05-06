@@ -138,11 +138,11 @@
 }
 :root {
 --primary: #FFBF00;
-  --secondary: #FFF2CC;
+  --secondary: #FFBF00;
   --accent: #FFBF00;
-  --bg-light: #F9F9F9;
+  --bg-light: #000000;
   --bg-dark: #2E2925;
-  --text-dark: #4A4A4A;
+  --text-dark: #717171;
   --text-light: #F7F2EA;
   --text-muted: #707070;
   --border-light: #808080;
@@ -178,11 +178,11 @@
   --gradient-light-section: linear-gradient(180deg, #F7F4EF 0%, #EDE8E1 100%);
   --gradient-overlay-light: linear-gradient(180deg, rgba(247,244,239,0.9) 0%, rgba(237,232,225,0.95) 100%);
   --primary-color: #FFBF00;
-  --secondary-color: #FFF2CC;
+  --secondary-color: #FFBF00;
   --accent-color: #FFBF00;
-  --background-color: #F9F9F9;
-  --surface-color: #FFFFFF;
-  --text-color: #4A4A4A;
+  --background-color: #000000;
+  --surface-color: #F9F9F9;
+  --text-color: #717171;
   --text-secondary-color: #707070;
 }
 
@@ -743,11 +743,11 @@ html:not([dir]) .whatsapp-float {
   --nav-text: #2E2925;
   --nav-text-hover: #C96E4B;
   --primary: #FFBF00;
-  --secondary: #FFF2CC;
+  --secondary: #FFBF00;
   --accent: #FFBF00;
-  --bg-light: #F9F9F9;
+  --bg-light: #000000;
   --bg-dark: #2E2925;
-  --text-dark: #4A4A4A;
+  --text-dark: #717171;
   --text-light: #F7F2EA;
   --text-muted: #707070;
   --border-light: #808080;
@@ -1001,11 +1001,11 @@ html:not([dir]) .whatsapp-float {
   --nav-text: #2E2925;
   --nav-text-hover: #C96E4B;
   --primary: #FFBF00;
-  --secondary: #FFF2CC;
+  --secondary: #FFBF00;
   --accent: #FFBF00;
-  --bg-light: #F9F9F9;
+  --bg-light: #000000;
   --bg-dark: #2E2925;
-  --text-dark: #4A4A4A;
+  --text-dark: #717171;
   --text-light: #F7F2EA;
   --text-muted: #707070;
   --border-light: #808080;
@@ -3777,7 +3777,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 .process-intro-section {
   position: relative;
   overflow: visible;
-  background-color: #FFF2CC;
+  background-color: #FFBF00;
   background-image:
     linear-gradient(135deg, #EDE8E1 0%, #F7F4EF 100%);
   color: var(--text-dark);
@@ -8471,10 +8471,10 @@ a, button {
   text-transform: uppercase;
 }
 .status-pending { background: #fef3c7; color: #856400; }
-.status-paid { background: #FFF2CC; color: #065f46; }
+.status-paid { background: #FFBF00; color: #065f46; }
 .status-processing { background: #dbeafe; color: #1e40af; }
 .status-shipped { background: #e0e7ff; color: #3730a3; }
-.status-delivered { background: #FFF2CC; color: #065f46; }
+.status-delivered { background: #FFBF00; color: #065f46; }
 .status-cancelled { background: #fee2e2; color: #856400; }
 .order-info-row {
   display: flex;
@@ -9067,7 +9067,7 @@ a, button {
 }
 .product-upsells .upsell-price.upsell-price-free {
   color: #047857;
-  background: #FFF2CC;
+  background: #FFBF00;
   padding: 2px 8px;
   border-radius: 999px;
   font-size: 0.8rem;
@@ -9225,7 +9225,7 @@ a, button {
   margin-top: 12px;
 }
 .coupon-badge {
-  background: #FFF2CC;
+  background: #FFBF00;
   color: #065f46;
   padding: 4px 12px;
   border-radius: 20px;
@@ -11890,7 +11890,7 @@ main,
 
 /* Basic Accessibility Enhancements */
 :root {
-  --accessibility-focus: #FFF2CC;
+  --accessibility-focus: #FFBF00;
 }
 
 /* Skip link styles */
@@ -12014,8 +12014,8 @@ main,
 #mic-access-tool-general-button svg line,
 #mic-access-tool-general-button svg polyline,
 #mic-access-tool-general-button svg g {
-  fill: #FFF2CC !important;
-  stroke: #FFF2CC !important;
+  fill: #FFBF00 !important;
+  stroke: #FFBF00 !important;
   color: #523d00 !important;
 }
 
@@ -12037,7 +12037,7 @@ main,
 .mic-access-tool-box-header,
 div[id*="mic-access-tool-box"] header,
 div[id*="mic-access-tool-box"] .header {
-  background: #FFF2CC !important;
+  background: #FFBF00 !important;
   color: white !important;
 }
 
@@ -12064,7 +12064,7 @@ div[id*="mic-access-tool-box"] .header * {
 #mic-access-tool-box button:hover,
 div[id*="mic-access-tool-box"] button.active,
 div[id*="mic-access-tool-box"] button:hover {
-  border-color: #FFF2CC !important;
+  border-color: #FFBF00 !important;
   color: #523d00 !important;
   background-color: rgba(243, 235, 221, 0.1) !important;
 }
@@ -12074,7 +12074,7 @@ div[id*="mic-access-tool-box"] button:hover {
 #mic-access-tool-box button[title*="Reset"],
 #mic-access-tool-box [class*="reset"],
 div[id*="mic-access-tool-box"] button[class*="reset"] {
-  background: #FFF2CC !important;
+  background: #FFBF00 !important;
   color: white !important;
 }
 
@@ -12095,6 +12095,10 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 ._access-icon {
   display: flex !important;
 }
+
+
+
+
 
 
 
