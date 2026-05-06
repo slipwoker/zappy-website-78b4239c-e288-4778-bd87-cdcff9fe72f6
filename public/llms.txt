@@ -6,53 +6,49 @@
 
 ## Pages
 
-### בית
+### חנות אינטרנטית — PRINTOPTECH
 https://example.com
 חנות אינטרנטית מובילה להדפסה מותאמת אישית לעסקים. מתנות ממותגות, הדפסה על מוצרים ואיכות שלא מתפשרת — הכל במקום אחד. גלו עכשיו!
 
-### תהליך ההתאמה
-https://example.com/process
-תהליך ההתאמה שלנו פשוט, מהיר ומדויק. בחרו מוצר, העלו עיצוב וקבלו הדפסה מותאמת אישית לעסקים עד הבית. התחילו את התהליך היום!
-
-### אודות
+### מי עומד מאחורי המותג שמדפיס את שלכם — PRINTOPTECH
 https://example.com/about
 PRINTOPTECH היא חנות אינטרנטית עם תשוקה אמיתית להדפסה מותאמת אישית לעסקים. למדו על הערכים, הניסיון והמחויבות שלנו לאיכות בלתי מתפשרת.
 
-### צור קשר
-https://example.com/contact
-יש לכם שאלה על הדפסה מותאמת אישית לעסקים או רוצים להזמין מתנות ממותגות? צוות PRINTOPTECH כאן בשבילכם — צרו קשר עכשיו וקבלו מענה מהיר!
-
-### Products
+### מוצרים
 https://example.com/products
 המוצרים שלנו - PRINTOPTECH
 
-### Cart
+### עגלת קניות
 https://example.com/cart
 עגלת הקניות שלך
 
-### Checkout
+### תשלום
 https://example.com/checkout
 תשלום
 
-### Login
+### התחברות
 https://example.com/login
 התחברות לקוחות
 
-### Account
+### החשבון שלי
 https://example.com/account
 החשבון שלי
 
-### Order Success
+### ההזמנה התקבלה!
 https://example.com/order-success
 תודה על ההזמנה
 
-### Product Detail
+### פרטי המוצר
 https://example.com/product/:slug
 פרטי המוצר - PRINTOPTECH
 
-### Category
+### מוצרים
 https://example.com/category/:slug
 מוצרים - PRINTOPTECH
+
+### דברו איתנו ונתחיל לממש את החזון שלכם — PRINTOPTECH
+https://example.com/contact
+יש לכם שאלה על הדפסה מותאמת אישית לעסקים או רוצים להזמין מתנות ממותגות? צוות PRINTOPTECH כאן בשבילכם — צרו קשר עכשיו וקבלו מענה מהיר!
 
 ## Legal & Policy
 
